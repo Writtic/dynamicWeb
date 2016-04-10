@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="DoLogin" method="get">
-		Customer ID(id001, id002, id003, id004, id005):
+		Customer ID(id001, id002, id003, id004, id005, id006, id007):
 		<input type="text" name="customerId"/> <br>
 		Customer PW(1234):
 		<input type="password" name="customerPw"/> <br>
