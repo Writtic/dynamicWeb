@@ -14,6 +14,8 @@ public class CustomerMap {
 		addCustomer(new Customer("id001", "1234", "Alice", "alice@gmail.com"));
 		addCustomer(new Customer("id002", "1234", "Bob", "bob@gmail.com"));
 		addCustomer(new Customer("id003", "1234", "Charlie", "charlie@gmail.com"));
+		addCustomer(new Customer("id004", "1234", "David", "david@gmail.com"));
+		addCustomer(new Customer("id005", "1234", "Shanon", "shanon@gmail.com"));
 	}
 
 	private void addCustomer(Customer customer) {
